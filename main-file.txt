@@ -4,3 +4,6 @@ These lines are added in main branch.
 These lines are added in main branch.
 These lines are added in main branch.
 This line is added in feature one branch.
+This line is added in feature three branch.
+This line is added in feature three branch.
+This line is added in feature three branch.
